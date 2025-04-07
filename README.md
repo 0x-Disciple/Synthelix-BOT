@@ -5,7 +5,7 @@
 ## Features
 - Support multi account
 - Auto start node
-- Auto claim point
+- Auto daily claim points and node points
 - Monitoring node status and points
 
 ## Requirements
